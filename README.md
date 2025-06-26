@@ -5,7 +5,8 @@ A sleek and responsive QR Code Generator built with **React** and **Tailwind CSS
 Convert your links, messages, or wallet addresses into QR codes instantly — with options to download, dark mode, toast notifications, and animated UX!
 
 ---
-
+## About
+This project is a simple yet powerful QR Code Generator that allows users to create QR codes from any text input. It's designed to be user-friendly and visually appealing, providing a seamless experience for anyone looking to generate QR codes quickly and easily.
 ##  Features
 
 - 🌗 Dark/Light Mode Toggle
