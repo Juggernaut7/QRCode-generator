@@ -10,6 +10,7 @@ export default function ToastConfig() {
           background: "#333",
           color: "#fff",
         },
+        
       }}
     />
   );
