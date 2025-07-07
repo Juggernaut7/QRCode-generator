@@ -36,7 +36,7 @@ function Footer() {
       </div>
 
       <p className="text-xs mt-2 text-gray-500 dark:text-gray-500">
-        Made with 💙 using React & Tailwind CSS
+        Built by <span className="font-medium text-indigo-600 dark:text-pink-400">Juggernaut</span> • © {new Date().getFullYear()} QR Code Generator
       </p>
     </footer>
   );
