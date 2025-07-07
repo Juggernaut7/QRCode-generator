@@ -7,6 +7,7 @@ export const ThemeProvider = ({ children }) => {
     const storedTheme = localStorage.getItem("theme");
     return storedTheme ? storedTheme : "light";
   });
+  
 
   useEffect(() => {
     const root = window.document.documentElement;
